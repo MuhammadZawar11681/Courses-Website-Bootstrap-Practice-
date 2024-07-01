@@ -4,4 +4,4 @@
 
 ### Website Demo
 
-https://www.frontendbootcampdemo.com/
+https://mzawar.netlify.app
